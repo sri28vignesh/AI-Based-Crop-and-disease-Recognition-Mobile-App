@@ -1,0 +1,1 @@
+# AI-Based-Crop-and-disease-Recognition-Mobile-App
